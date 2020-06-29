@@ -107,17 +107,21 @@ module.exports = [{
         hired: false
     },
     {
-        name: 'Abdul Malik Ikhsan',
+        name: 'Muhammad Rizqi',
+        status: 'Fulltime',
+        role: 'Jr. Software Engineer',
+        location: 'Jakarta',
+        social_media: 'https://www.linkedin.com/in/muhrizqi/',
+        tech_stack: ['Python', 'Odoo', 'PostgreSQL'],
+        hired: false
+    },
+    {
+        name: 'Mochammad Shenna Wardana',
         status: 'Fulltime, Remote',
         role: 'PHP Developer, System Engineer',
-        location: 'Bandung',
-        social_media: {
-            Linkedin: 'https://www.linkedin.com/in/samsonasik/',
-            Github: 'https://github.com/samsonasik',
-            Twitter: 'https://twitter.com/samsonasik',
-            Blog: 'https://samsonasik.wordpress.com/'
-        },
-        tech_stack: ['PHP', 'Laminas', 'Mezzio', 'Laminas API Tools'],
+        location: 'Depok',
+        social_media: 'https://www.linkedin.com/in/mochammad shenna wardana/',   
+        tech_stack: ['JavaScript', 'TypeScript', 'NodeJS', 'PHP', 'VueJS'],
         hired: false
     },
     {
