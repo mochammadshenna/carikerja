@@ -26,6 +26,15 @@ module.exports = [{
         hired: false
     },
     {
+        name: 'Mochammad Shenna Wardana',
+        status: 'Fulltime',
+        role: 'Back-end Developer',
+        location: 'Depok',
+        social_media: 'https://www.linkedin.com/in/mochammad shenna wardana/',
+        tech_stack: ['nodejs', 'typescript', 'mysql', 'mongodb'],
+        hired: false
+    },
+    {
         name: 'Willy Tan',
         status: 'Fulltime',
         role: 'Front-end Developer',
